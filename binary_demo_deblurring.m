@@ -34,7 +34,7 @@ image_name{6} ='i13_NumTab_ker1.png';
 image_name{7} ='i1_text_ker1.png';
 image_name{8} ='i17_pattern_344_ker1.png';
 
-kernel_sizes=[43 25 31 43 37 43 43 43];  % the used kernel size for the 8 different kernels
+kernel_sizes=[43 25 31 43 37 43 43 43];  % the used kernel size for the 8 different images
 
 for jj=1:8
     filename =image_name{jj};
